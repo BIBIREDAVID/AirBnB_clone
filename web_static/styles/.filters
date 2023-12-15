@@ -1,5 +1,4 @@
-.filters {
-  display: none;
+y: none;
 }
 @media only screen and (max-width: 600px) {
 }
@@ -65,15 +64,6 @@
     font-size: 14px;
     margin: auto 0 auto 30px;
   }
-/* Focus for ARIA accesibility */
-.locations:focus,
-.amenities:focus {
-  background-color: antiquewhite;
-}
-
-article:focus {
-  background-color: antiquewhite;
-}
 
   /* ================================================================= */
   /* dropdown menu */
@@ -126,7 +116,4 @@ article:focus {
 @media only screen and (min-width: 992px) {
 
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 4329a3beab6719df8572b4aed30abd62f0239db8

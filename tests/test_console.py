@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 #!/usr/bin/python3
 """Defines unittests for console.py.
 
@@ -1569,3 +1571,4 @@ class TestHBNBCommand_count(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 
+>>>>>>> 4329a3beab6719df8572b4aed30abd62f0239db8
